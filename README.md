@@ -1,2 +1,4 @@
 # tkrclient-app
-pls give me time to make an app
+An android app for all your iogames.fun needs
+
+And nobody asked for this
